@@ -6,13 +6,13 @@
           "name": "",
           "size": "",
           "img": "https://kstic.github.io/th/png/themgreen.png",
-           "dl": "jp.naver.line.android"
+           "dl": "mm.Kkeyboard.theme.gray"
          },
           {
           "name": "",
           "size": "",
            "img": "https://kstic.github.io/th/png/themgray.png",
-           "dl": "mm.kst.keyboard.myanmar"
+           "dl": "mm.Kkeyboard.theme.gray"
         }
       ],
       "all": [
@@ -22,17 +22,11 @@
           "img": "https://kstic.github.io/th/png/themgreen.png",
            "dl": "mm.kst.keyboard.myanmar"
          },
-        {
-          "name": "",
-          "size": "",
-          "img": "https://kstic.github.io/th/png/themgreen.png",
-           "dl": "jp.naver.line.android"
-         },
           {
           "name": "",
           "size": "Free",
            "img": "https://kstic.github.io/th/png/themgray.png",
-           "dl": "mm.Kkeyboard.theme.green"
+           "dl": "mm.Kkeyboard.theme.gray"
         }
 
       ]
